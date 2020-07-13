@@ -14,7 +14,7 @@ import time
 from interface import Environment
 from common.agent_process import AgentCtrl
 
-
+haha
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--map", type=str, default="1000_1000_2_10_vs_2_10", help='map name, only name, not file path')
